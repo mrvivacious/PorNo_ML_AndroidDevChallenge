@@ -1,3 +1,11 @@
+# PorNo_ML_AndroidDevChallenge
+
+Link to cover letter: https://docs.google.com/document/d/1RQM0vgZbfAetv9l7aXG_R1_cQAyz6Mj3uRoczRf8rf8/edit?usp=sharing
+
+(Rest of README and this repository is cloned from porNo_open_source, https://github.com/mrvivacious/porNo_open_source)
+
+
+
 # porNo_open_source
 Welcome! This is meant to provide a free and public algorithm for porn detection.
 <br>
