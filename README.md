@@ -1,6 +1,6 @@
 # PorNo_ML_AndroidDevChallenge
 
-Link to cover letter: https://docs.google.com/document/d/1RQM0vgZbfAetv9l7aXG_R1_cQAyz6Mj3uRoczRf8rf8/edit?usp=sharing
+Link to cover letter (available as pdf in repository as well): https://docs.google.com/document/d/1RQM0vgZbfAetv9l7aXG_R1_cQAyz6Mj3uRoczRf8rf8/edit?usp=sharing
 
 (Rest of README and this repository is cloned from porNo_open_source, https://github.com/mrvivacious/porNo_open_source)
 
